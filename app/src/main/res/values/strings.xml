@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewYorkTimes</string>
+    <string name="new_york_times">New York Times</string>
+    <string name="most_popular">MOST POPULAR</string>
+    <string name="of_the">of the</string>
+    <string name="day">DAY</string>
+    <string name="week">WEEK</string>
+    <string name="month">MONTH</string>
+</resources>
